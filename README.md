@@ -12,8 +12,9 @@ Write your design steps here
 Write your design steps here
 
 ## OUTPUT:
-include your output screenshots 
-
+![output](./wireframeworkoutput1.jpeg)
+![output](./wireframeworkoutput2.jpeg)
+![output](./wireframeworkoutput3.jpeg)
 
 ## Result:
 Thus a wire frame is designed for a given website.
